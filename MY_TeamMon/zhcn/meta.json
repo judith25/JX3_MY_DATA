@@ -1,7 +1,7 @@
 {
-  "name": "黑科技",
+  "name": "黑科技1",
   "author": "安冥",
-  "version": "20190522",
-  "data_url": "./最新数据.jx3dat",
+  "version": "20200522",
+  "data_url": "./20200522.jx3dat",
   "about": "./README.md"
 }
