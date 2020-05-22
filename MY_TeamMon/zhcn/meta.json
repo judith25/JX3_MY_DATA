@@ -3,5 +3,5 @@
   "author": "安冥",
   "version": "20190522",
   "data_url": "./最新数据.jx3dat",
-  "about": "../README.md"
+  "about": "./README.md"
 }
